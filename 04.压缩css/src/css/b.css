@@ -1,0 +1,11 @@
+.title {
+  color: #333;
+  font-size: 18px;
+  text-align: center;
+}
+
+.box2{
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+}
